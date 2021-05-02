@@ -1,0 +1,609 @@
+
+.thank_you{padding:100px 0;}
+.left_menu_footer .menu_links_item .font-normal li{    line-height: 18px;}
+.srch_btn2{ display:none;}
+.srch_btn2 .close1 {
+    display: none;
+}
+.srch_btn2 .open1 {
+    display: block;
+}
+.srch_btn2.open .close1 {
+    display: block;
+}
+
+
+@media only screen and (max-width:1920px) {
+	
+	
+}
+@media only screen and (max-width:1366px) {
+	.gallery_sec_main .nav-tabs li a {
+		padding: 9px 20px 10px 20px;
+		display: inline-block;
+		border-radius: 35px;
+		font-size: 16px;
+	}
+	.custom_table th {font-size:18px;}
+	.custom_table td {font-size:18px;}
+	.breadcrumbs span {
+    font-size: 16px;}
+	.breadcrumbs span:before{font-size:20px;     top: 1px;}
+	.title-5 {
+    font-size: 21px;}
+	.names_list_cont_left{font-size:18px;}
+	.accordian_box_cont {
+		padding: 0px 5px;
+	}
+	.names_list_cont_right{font-size:18px;}
+	.list_disc li {
+    font-size: 17px; margin-bottom:5px;}
+	.accordion-container .article-title{    padding: 13px 22px;     font-size: 20px;}
+	.sub-menu li a{font-size:15px;     padding: 6px 15px;}
+	.wrapper{overflow:hidden;}
+	.main_nav >ul >li >a { font-size: 17px;}
+	.container {
+		width: 1024px;
+		margin: 0 auto;
+	}
+	.logo_main {
+		width: 330px;
+	}
+	.main_nav >ul >li >a{padding:12px 45px}
+	.main_nav >ul >li.menu-item-has-children >a:after {
+		content: '\f107';
+		font: normal normal normal 14px/1 FontAwesome;
+		display: block;
+		position: absolute;
+		right: 24px;
+		top: 14px;
+		font-size: 16px;
+		color: #ffffff;
+	}
+	.middle_flash {
+		width: 320px;
+	}
+	.switch{width:32px;    height: 10px;}
+	.hindi_mr_switch ul li { margin: 0 5px;}
+	.slider:before{width:15px; height:15px;}
+	.hindi_mr_switch .font_change_eng{font-size:15px;}
+	.middle_flash span{font-size: 20px; padding:6px 0;}
+	.hindi_mr_switch h4{font-size:22px;}
+	.sub-menu{top:17px;}
+	.banner_cont p{font-size: 20px; line-height: 32px;}
+	img.img_lotus {
+    width: 240px;}
+	.marque_section p {
+    font-size: 18px;
+    line-height: 44px;
+}
+	.banner_cont_caption{ padding: 40px; width: 430px;  padding-bottom: 80px;}
+	.banner_bottom{    padding: 40px 0 50px 0;}
+	.right_announcment{    width: 200px;     padding: 5px 15px;     font-size: 17px; line-height: 22px;}
+
+	.loca_item h4 {
+    font-size: 18px;}
+	.loca_item .sec_img_map {
+		width: 170px;
+		height: 170px;
+		margin-bottom: 20px;
+	}
+	.loc_title{    font-size: 18px;    padding: 7px 30px 7px 30px;     line-height: 22px;}
+	.para-4 { font-size: 17px; line-height: 25px;}
+	.title-4 {
+    font-size: 25px;
+    line-height: 26px;}
+	.history_main { padding: 60px 0;}
+	.btn_same {
+		font-size: 16px;
+		line-height: 23px;
+		bottom: 0;
+		padding: 6px 0px;
+		margin-top: 10px;
+		width: 115px;
+	}
+	.overlay_cont h3{ font-size: 30px;  line-height: 38px;}
+	.title_sec_top_right ul li {
+    font-size: 17px;}
+	.festivals_item h4 {
+    font-size: 22px;}
+	.festivals_middle_main{width:540px;}
+	.garland_img{width:840px;}
+	.festivals_list .slick-prev:before{width:30px; height:30px;}
+	.festivals_list .slick-prev{width:30px; height:30px;     bottom: -59px;     left: 28%;}
+	.festivals_list .slick-next:before{width:30px; height:30px;}
+	.festivals_list .slick-next{width:30px; height:30px;     bottom: -56px;     right: 28%;}
+	.btn_same img{width:19px;}
+	.left_menu_footer .menu_links_item {
+		width: 19%;
+	}
+	.menu_links_item li a {
+    font-size: 15px;}
+	.menu_links_item .font-normal li a {
+    font-size: 13px;}
+	.left_menu_footer{    align-items: baseline;}
+	.social_links h4{font-size:13px;}
+	.devbhakti_sec p {
+    font-size: 20px;
+    line-height: 32px;
+}
+.devbhakti_sec_inner_cont {
+    margin-bottom: 40px;
+}
+	.devbhakti_sec h2{font-size:30px;}
+}
+
+@media only screen and (max-width:1025px) {
+	.container {width: 94%;}
+	.festivals_middle_main h3{font-size:20px; margin-bottom:10px;}
+	.form_sec .form_grp{    font-size: 13px;     padding: 12px 18px;}
+	
+}
+
+@media only screen and (max-width:992px) {
+	.festivals_item h4 {
+		font-size: 15px;
+	}
+	
+	.hist_cont {
+		width: 100%;
+	}
+	.gallery_list li {
+    width: 48.5%;}
+	.gallery_sec_main .nav-tabs li {
+    width: 33.33%;}
+	.hist_cont p br{display:none;}
+	.gallery_list_item {
+		width: 100%;
+	}
+	.title_sec_top_right{padding-left:0;}
+	.festivals_middle_main {
+		width: 350px;
+		    margin-top: 40px;
+	}
+	.garland_img {
+		width: 600px;
+	}
+	.festivals_middle_main {
+		width: 300px;
+		margin-top: 40px;
+	}
+	.festivals_list .slick-next{right:5%;}
+	.festivals_list .slick-prev{left:5%;}
+	.gallery_bottom_list {
+    display: block;}
+	.gallery_bottom_item {
+		width: 100%;
+	}
+	.gallery_bottom_item ul li{padding:0; margin-bottom:5px;}
+	.gallery_bottom_cont{    margin: 6px;}
+	.gallery_bottom_sec {
+    padding: 40px 0;}
+	.menu_links_quick {
+    display: block;}
+	.left_menu_footer {
+		width: 100%;
+	}
+	nav.social_links {
+		margin-top: 30px;
+	}
+	.footer-left p{font-size:12px;}
+	.logo_main {
+		width: 280px;
+	}
+	.middle_flash {
+		width: 280px;
+	}
+	.main_nav >ul >li >a {
+		padding: 12px 30px;
+	}
+	.main_nav >ul >li >a {
+		font-size: 18px;
+	}
+	.sub-menu li a{font-size: 18px;}
+	.main_nav >ul >li.menu-item-has-children >a:after{right:11px;}
+	.banner_cont_caption{width:80%; padding-bottom:40px;}
+	.banner_cont p br{ display:none;}
+	.garland_img{ display:none;}
+	.festivals_middle_main {
+		width: 400px;
+		margin-top: 40px;
+	}
+	.festivals_list .slick-next {
+		right: 19%;
+	}
+	.festivals_list .slick-prev {
+		left: 19%;
+	}
+	
+}
+@media only screen and (max-width:768px) {
+	.contact_adress {
+		display: block;
+	}
+	.contact_adress .cont_box_1:last-child {
+		padding-left: 0;
+	}
+	h4 {
+    font-size: 16px;}
+	.gallery_list li {
+		width: 100%;
+	}
+	.gallery_sec_main .nav-tabs li {
+		width: 50%;
+		margin-bottom:5px;
+	}
+	.gallery_sec_main .nav-tabs{margin-bottom:10px;}
+	.gallery_sec_main .nav-tabs li a {
+		padding: 6px 10px 5px 10px;
+		display: inline-block;
+		border-radius: 35px;
+		font-size: 14px;
+	}
+	.nav_tabs_sec{ display:block;}
+	.mentors_sec .nav-tabs{ width:100%;     overflow-x: scroll; display:flex; position:relative; margin-bottom:10px;}
+	.click_her {
+		padding: 6px 11px;
+		background: #ccc;
+		border-radius: 30px;
+		font-size: 13px;
+		display: block;
+		width: 90px;
+		margin: 0 auto;
+		margin-top: 5px;
+	}
+	.navigation{    border-bottom: 5px solid #ff3e19; height:42px;}
+	.marque_section{margin-top:70px;}
+	.marque_section h6{    top: -90px;
+    font-size: 16px;}
+	.marque_section p{top:inherit;}
+	input:checked + .slider:before {
+		-webkit-transform: translateX(18px);
+		-ms-transform: translateX(18px);
+		transform: translateX(18px);
+	}
+.mentors_sec .nav-tabs li a {
+    padding: 12px 15px 12px 15px;
+    display: block;
+    font-weight: 600;
+    font-size: 16px;
+}
+.mentors_sec .tab-pane.active{    padding: 20px 20px;}
+	.mentors_sec .tab-content-right .title_tab_top {
+		padding: 10px 20px 10px 20px;
+	}
+	.tab-content-right{width:100%;}
+	.mentors_sec .title_tab_top{padding:10px 20px 10px 20px;     font-size: 20px;}
+	.names_list_cont_left{font-size:14px; width:120px;}
+	.names_list_cont_right{font-size:14px;     width: calc(100% - 130px);}
+	.names_list_cont_right ul li {
+    width: 100%;
+    padding: 0 10px 0 0;
+}
+	.accordion-container{margin-bottom:40px;}
+	.accordion-content{    padding: 20px 15px;}
+	.history_main_nidhi{padding:30px 0!important;}
+	.accordion-container .article-title{    padding: 11px 20px;     font-size: 18px;}
+	.table_wrapper{overflow-x: auto;
+    width: 100%;}
+	.nidhi_dengi_sec ul {
+		width: 100%;
+	}
+	.nidhi_dengi_sec ul:last-child {
+    width: 100%;
+}
+	.custom_table th {
+		padding: 10px 20px;
+		font-size:15px;
+		border: 0;
+		font-weight: 500;
+	}
+	.custom_table td {
+		padding: 10px 20px;
+		font-size:15px;
+		border: 0;
+		text-align: left;
+	}
+	.sec_san_utsav_first {
+		margin-top: 15px;
+	}
+	.title-6 {
+    font-size: 28px;
+    line-height: 35px;}
+	.mandir_cont p {
+		margin-bottom: 0px;
+	}
+	.list_disc li {
+    font-size: 16px;}
+	.breadcrumbs {
+    padding: 10px 0;}
+	section.mandir_cont {
+		padding: 30px 0 30px 0;
+	}
+	.container {
+		width: 90%;
+	}
+	.breadcrumbs span {
+    font-size: 15px; padding:0 10px;}
+	.breadcrumbs span:before{    top: 2px;
+    font-size: 18px;}
+	
+	.form_sec_contact ul li {
+    width: 100%;}
+	.slider:before {
+		width: 12px;
+		height: 12px;
+		border: 1px solid #fff;
+		bottom: -2px;
+	}
+	.navigation{text-align:left;}
+	.srch_btn2{ display:inline-block;}
+	.main_nav {
+		position: fixed;
+		right: -290px;
+		top: 0;
+		width: 290px;
+		height: 100%;
+		z-index: 9999;
+		overflow-y: scroll;
+		transition: all 0.3s ease-in-out;
+		background:#952526;
+		border-right: 2px solid #cccccc;
+		padding: 20px;
+		box-sizing: border-box;
+		border-radius: 0;
+		padding: 0;
+	}
+	.main_nav.show-srchbar {
+		right: 0;
+	}
+	.main_nav >ul >li >a:before{ display:none;}
+	.main_nav >ul >li {
+		display: block;
+		margin: 0;
+		text-align: left;
+		padding: 0;
+		position: relative;
+		border-bottom: 1px solid #cccccc;
+	}
+	.bar1, .bar2, .bar3 {
+    width: 28px;
+    height: 2px;
+    background-color: #ffffff;
+    margin: 6px 0;
+    transition: 0.4s;
+}
+
+.open .bar1 {
+  -webkit-transform: rotate(-45deg) translate(-4px, 4px);
+  transform: rotate(-45deg) translate(-4px, 4px);
+}
+body.home_page.open_scroll {
+    overflow: hidden;
+}
+.menu_bar{position: relative;
+    top: 5px;}
+.menu-overly-srch {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    background: #ffffff;
+    opacity: 0.8;
+    z-index: 999;
+    display: none;
+}
+.open .bar2 {opacity: 0;}
+
+.open .bar3 {
+  -webkit-transform: rotate(45deg) translate(-8px, -8px);
+  transform: rotate(45deg) translate(-8px, -8px);
+}
+	span.sub-toggle {
+		background-image: url(http://www.traditionntrendz.com/images/spritesheet.png);
+		background-repeat: no-repeat;
+		background-position: right 10px top -24px;
+		position: absolute;
+		right: 0;
+		top: 0;
+		z-index: 999;
+		width: 40px;
+		height: 44px;
+		text-align: center;
+		cursor: pointer;
+		background-color: #707e87;
+	}
+	.sub-menu {
+		opacity: 1;
+		visibility: visible;
+		display: none;
+		position: relative;
+		top: inherit;
+		transform:inherit;
+		background:#ffffcc;
+		pointer-events: initial;
+		width: 100%;
+	}
+	span.sub-toggle.expanded {
+		background-image: url(http://www.traditionntrendz.com/images/spritesheet.png);
+		background-repeat: no-repeat;
+		background-position: right 10px top 4px;
+	}
+	.sub-menu li a{    color: #952526;}
+	    .hindi_mr_switch {
+		position: absolute;
+		bottom: -60px;
+		z-index: 999;
+		right: 0;
+	}
+	.hindi_mr_switch h4{color:#ffffff;}
+	.history_niwas{padding:30px 0;}
+	.history_niwas .btn_same{    margin-top: 30px;}
+	.title_sec_top_right {
+    display: block;}
+}
+.title_sec_top_right ul:last-child {
+       padding: 0 30px;
+}
+
+@media only screen and (max-width:480px) {
+	.mobile_show {
+    display: block;
+}
+	.festivals_middle_main{width:100%; left:0;     padding: 0px 20px;}
+	.gallery_bottom_item ul li {
+    width: 100%;}
+	.title-4 {
+    font-size: 18px;
+    line-height: 26px;
+}
+	.festivals_list .slick-prev {
+		left: -9%;
+		top: 50%;
+	}
+	.festivals_list .slick-next {
+		right: -9%;
+		top: 50%;
+	}
+	.overlay_cont h3 {
+		font-size: 26px;
+		line-height: 30px;
+	}
+	.bottom_cont_overlay{    height: 140px; position:relative;}
+	img.img_lotus {
+		display: none;
+	}
+	.main_nav{    width: 260px;}
+	.main_nav >ul >li >a {
+		padding: 10px 20px;
+		    font-size: 16px;
+	}
+	.sub-menu li a {
+     font-size: 16px;
+}
+	.banner_cont_caption {
+		padding: 20px 20px 5px 20px;
+		width: 100%;
+	}
+	
+	.middle_flash {
+		width: 300px;
+		position: absolute;
+		left: 0;
+		right: 0;
+		margin: 0 auto;
+		top: 0;
+	}
+	.header_top{    justify-content: center; padding-top:50px;}
+	
+	.middle_flash span {
+		font-size: 11px;
+		padding: 6px 0;
+	}
+	#marquee {
+		float: none;
+		width: 100%;
+	}
+	.left_menu_footer .menu_links_item {
+		width: 50%;
+	}
+	.marque_section{padding: 10px 15px;}
+	.banner_bottom {
+		padding: 30px 0 40px 0;
+	}
+	.left_menu_footer{flex-wrap:wrap;}
+	.loca_item:before{ display:none;}
+	.right_announcment{ display:none;}
+	.location_go{padding-bottom:20px;}
+	.ban_img {
+		width: 100%;
+		height: 200px;
+		object-fit: cover;
+	}
+	.banner_cont p {
+		font-size: 16px;
+		line-height: 26px;
+	}
+	.marque_section p {  font-size: 14px; line-height: 26px;}
+	.para-4 {
+		font-size: 15px;
+		line-height: 21px;
+	}
+	.history_main {
+		padding: 30px 0;
+	}
+	.first_gallery_collapse {
+    padding: 30px 0;}
+	.devbhakti_sec p {
+		font-size: 18px;
+		line-height: 26px;
+	}
+	.devbhakti_sec h2 {
+		font-size: 21px;
+		margin-bottom: 5px;
+	}
+	.devbhakti_sec .loc_title{position:relative;     margin-bottom: 16px;}
+	.btn_same {
+		font-size: 15px;
+		line-height: 20px;
+		bottom: 0;
+		padding: 6px 0px;
+		margin-top: 10px;
+		width: 105px;
+	}
+	.loc_title {
+		font-size: 16px;
+		padding: 6px 25px 6px 25px;
+		line-height: 22px;
+	}
+	.bottom_cont_overlay .btn_same{width:133px;}
+	.overlay_cont h3 {
+		font-size: 20px;
+		line-height: 32px;
+	}
+	.overlay_cont {
+		position: absolute;
+		bottom: 25px;
+		left: 30px;
+	}
+	.hindi_mr_switch h4 {
+		font-size: 20px;
+	}
+	.hindi_mr_switch .font_change_eng {
+		font-size: 14px;
+	}
+	.gallery_bottom_sec{overflow:hidden;}
+	.devbhakti_sec .loc_title{top:0;}
+	.festivals_list {
+		padding-bottom: 20px;
+	}
+	.loca_item h4 {
+		font-size: 16px;
+	}
+	.bar1, .bar2, .bar3{width:25px;}
+	.loca_item .sec_img_map {
+    width: 200px;
+    height: 200px;}
+	.footer-left p {
+		font-size: 12px;
+		line-height: 20px;
+	}
+	.history_main{overflow: hidden;}
+	.logo_main {
+    width: 260px;}
+	.title-5 {
+		font-size: 18px;
+		line-height: 24px;
+		margin-bottom: 10px;
+	}
+	.header_main {
+    padding: 15px 0 0 0;}
+	span.sub-toggle{    height: 42px;}
+
+}
+
+@media only screen and (max-width:414px) {
+	.ban_img{height:240px;}
+}

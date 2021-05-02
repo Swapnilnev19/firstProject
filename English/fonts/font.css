@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'AkrutiDevPriyanka Normal';
+  src: url('AkrutiDevPriyanka Normal.eot');
+  src: url('AkrutiDevPriyanka Normal.eot?#iefix') format('embedded-opentype'),
+       url('AkrutiDevPriyanka Normal.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'AkrutiDevPriyankaNormal';
+  src: url('AkrutiDevPriyankaNormal.svg#AkrutiDevPriyankaNormal') format('svg'),
+       url('AkrutiDevPriyankaNormal.ttf') format('truetype'),
+       url('AkrutiDevPriyankaNormal.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
